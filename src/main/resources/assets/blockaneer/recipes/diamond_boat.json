@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "identifier",
+    "pattern": [
+        "   ",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "B": {
+            "item": "blockaneer:gold_boat",
+            "data": 0,
+            "count": 1
+        },
+        "#": {
+            "item": "minecraft:diamond",
+            "data": 0,
+            "count": 1
+        }
+    },
+    "result": {
+        "item": "blockaneer:diamond_boat",
+        "data": 0,
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "identifier",
+	"pattern": [
+		"   ",
+		"#B#",
+		"###"
+	],
+	"key": {
+		"B": {
+			"item": "blockaneer:iron_boat",
+			"data": 0,
+			"count": 1
+		},
+		"#": {
+			"item": "minecraft:gold_ingot",
+			"data": 0,
+			"count": 1
+		}
+	},
+	"result": {
+		"item": "blockaneer:gold_boat",
+		"data": 0,
+		"count": 1
+	}
+}

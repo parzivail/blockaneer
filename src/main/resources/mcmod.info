@@ -1,0 +1,18 @@
+[
+	{
+		"modid": "blockaneer",
+		"name": "Blockaneer",
+		"description": "Sailing the high seas!",
+		"version": "0.0.1+1.12.2",
+		"mcversion": "1.12.2",
+		"url": "https://github.com/parzivail/blockaneer",
+		"updateUrl": "",
+		"authorList": [
+			"parzivail"
+		],
+		"credits": "parzivail",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
